@@ -1,7 +1,6 @@
 # AiO
 
 1. [Цель](Mission.md)
-1. [Задача](Target.md)
 1. [Описание проекта](Descrip_progect.md)
 1. [Конкуренты](Rivals.md)
 1. [Состав команды](Team.md)
