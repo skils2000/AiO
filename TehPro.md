@@ -5,6 +5,8 @@
 ![Диаграмма Use Case](/Diag/Use_Case.jpg)
 Рисунок 1 - Use Case Diagramm
 
+![Диаграмма классов](/Diag/Class.jpg)
+Рисунок 2 - Class Diagramm
 ### Диаграмма Ганта
 ![Диаграма Ганта](/Diag/Gant.jpg)
 Рисунок 3 - Диграмма Ганта
